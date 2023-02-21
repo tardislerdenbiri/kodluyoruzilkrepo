@@ -25,3 +25,5 @@ Pull Request'ler kabul edilir. Büyük değişiklikler için, lütfen önce neyi
 ![kodluyoruzilkrepo](img/kodluyoruzilkrepo.png)
 
 
+## License
+[MIT](https://github.com/tardislerdenbiri/kodluyoruzilkrepo/blob/main/LICENSE)
